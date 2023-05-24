@@ -1,0 +1,5 @@
+{
+    "$comment": "THIS IS THE CONFIG FILE FOR THE PLUGIN HELPER - DO NOT REMOVE",
+    "plugin": "example.plugin.js",
+    "bdpath": "%AppData%/BetterDiscord"
+}

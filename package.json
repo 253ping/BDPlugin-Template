@@ -1,0 +1,13 @@
+{
+    "name": "betterdiscord-plugin-template",
+    "version": "1.0.0",
+    "description": "Template Plugin for BetterDiscord",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js --run-dev",
+        "test": "node main.js --install"
+    },
+    "author": "NekoLP",
+    "license": "MIT",
+    "private": true
+}
